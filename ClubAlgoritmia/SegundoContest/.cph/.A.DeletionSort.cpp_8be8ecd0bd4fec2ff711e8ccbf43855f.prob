@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\BATWAVE\\Programacion\\ClubAlgoritmia\\SegundoContest\\A.DeletionSort.cpp","tests":[{"id":1790883806442,"input":"3\n4\n1 4 2 3\n1\n100\n2\n6 7","output":"1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\BATWAVE\\Programacion\\ClubAlgoritmia\\SegundoContest\\A.DeletionSort.cpp","group":"local","local":true}
