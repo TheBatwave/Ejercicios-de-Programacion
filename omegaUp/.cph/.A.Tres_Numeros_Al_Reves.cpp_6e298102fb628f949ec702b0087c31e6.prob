@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\BATWAVE\\Programacion\\omegaUp\\A.Tres_Numeros_Al_Reves.cpp","tests":[{"id":1792255334390,"input":"3\n4\n5","output":"5\n4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\BATWAVE\\Programacion\\omegaUp\\A.Tres_Numeros_Al_Reves.cpp","group":"local","local":true}
